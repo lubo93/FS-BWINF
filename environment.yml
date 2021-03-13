@@ -1,0 +1,10 @@
+name: BWINF-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - random
+  - matplotlib
+  - scipy
+  - networkx
+  - EoN
