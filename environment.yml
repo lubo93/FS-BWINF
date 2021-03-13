@@ -1,10 +1,7 @@
-name: BWINF-environment
+name: epidemics
 channels:
-  - conda-forge
+  - bioconda
+  - defaults
 dependencies:
-  - numpy
-  - random
-  - matplotlib
-  - scipy
-  - networkx
-  - EoN
+  - python=3.6
+  - jupyter
