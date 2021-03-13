@@ -8,7 +8,7 @@ dependencies:
   - matplotlib
   - networkx
   - scipy
-  - random
   - pip
   - pip:
     - EoN
+    - random
