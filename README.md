@@ -1,2 +1,2 @@
 # FS-BWINF21
-summary of some BWINF tutorials
+Some tutorials for a presentation at Frankfurt School of F&M in March 2021.
